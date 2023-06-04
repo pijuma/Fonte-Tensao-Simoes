@@ -25,7 +25,7 @@ A fonte transforma a tensão do fornecedor (127V - 220V) em corrente alternada (
   2. O próximo estágio é a retificação da enegeria alternada recebida para um sinal contínuo.
   Essa etapa é composta por uma ponte com quatro diodos que só permitem a passagem dos semiciclos positivos do sinal original, sendo essa configuração conhecida como retificador de onda completa. 
   
-  ![ponte_de_iodo](pontedeiodo.png) <br>
+  ![ponte_de_iodo](pontedeiodo.png) <br  /> ![pontes_gif] (pontes.gif) <br> 
   
 # Cálculos 
 
