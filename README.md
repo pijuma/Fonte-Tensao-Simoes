@@ -18,6 +18,7 @@ A fonte transforma a tensão do fornecedor (127V - 220V) em corrente alternada (
   
 # Etapas 
 
+  1. 
 # Cálculos 
 
 # Valores 
