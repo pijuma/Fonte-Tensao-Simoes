@@ -53,7 +53,8 @@ Link do circuito: https://tinyurl.com/2eja2aah <br>
 # Fontes de pesquisa 
 
 Aulas do Professor Simões: https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao
-
+https://electronicsclub.info/powersupplies.htm 
+<br>
 # Responsáveis 
 
 Shogo Shima - 12675145 <br>
