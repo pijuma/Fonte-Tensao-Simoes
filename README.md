@@ -12,7 +12,7 @@ Nesse projeto, realizado para a disciplina de Eletrônica para Computação do c
 
 # Circuito no Falstad 
 
-Link do circuito: https://l1nq.com/B2kpE <br> 
+Link do circuito: https://tinyurl.com/2egmtj59 <br> 
 
 # PCB no EAGLE
 
