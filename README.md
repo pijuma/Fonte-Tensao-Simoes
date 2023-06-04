@@ -18,9 +18,11 @@ A fonte transforma a tensão do fornecedor (127V - 220V) em corrente alternada (
   
 # Etapas 
 
-  1. 
+  1. O processo se inicia com a entrada de um sinal elétrico alternado, em que a DDP será reduzida pelo transformador, dispositivo capaz de "elevar" ou "reduzir" os níveis de tensão entre a entrada e a saída. Essa etapa é essencial para reduziro sinal elétrico recebido para uma voltagem utilizável.<br> 
   
-  ![Transformador](transformador.jpeg) 
+![Transformador](transformador.png) <br> 
+  
+  2. 
 # Cálculos 
 
 # Valores 
