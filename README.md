@@ -4,7 +4,7 @@ Nesse projeto, realizado para a disciplina de Eletrônica para Computação do c
 
 # Funcionamento 
 
-A fonte transforma a tensão do fornecedor (127V - 220V) em corrente alternada AC que, posteriormente, será convertida numa tensão de corrente contínua que permite o funcionamento dos equipamentos. <bt>
+A fonte transforma a tensão do fornecedor (127V - 220V) em corrente alternada(AC) que, posteriormente, será convertida numa tensão de corrente contínua que permite o funcionamento dos equipamentos. <bt>
   
 ![Diagrama](diagrama.jpeg) 
 # Etapas 
