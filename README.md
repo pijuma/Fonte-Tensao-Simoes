@@ -6,8 +6,16 @@ Nesse projeto, realizado para a disciplina de Eletrônica para Computação do c
 
 A fonte transforma a tensão do fornecedor (127V - 220V) em corrente alternada (AC) que, posteriormente, será convertida numa tensão de corrente contínua que permite o funcionamento dos equipamentos. <bt>
   
-![Diagrama](diagrama.jpeg) <br> 
- ** Transformador: ** aaa
+![Diagrama](diagrama.jpeg) <br>  
+
+**Transformador:** Converte a tensão recebida (AC) para um valor utilizável em AC.
+
+**Ponte retificadora:** Retifica os pulsos de energia alternada para um sinal contínuo de modo a produzir uma saída polarizada DC.
+  
+**Filtragem:** Filtra a tensão tornando a corrente contínua.
+  
+**Regulação:** Regula a saída para obter uma tensão constante.
+  
 # Etapas 
 
 # Cálculos 
