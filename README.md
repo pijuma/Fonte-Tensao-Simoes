@@ -1,5 +1,7 @@
 # Objetivo
 
+O projeto tem por objetivo projetar uma **Fonte de Tensão ajustável** entre 3V e 12V com capacidade de 100mA <br> 
+
 # Funcionamento 
 
 # Etapas 
@@ -20,8 +22,8 @@ Aulas do Professor Simões: https://gitlab.com/simoesusp/disciplinas/-/tree/mast
 
 # Responsáveis 
 
-Shogo Shima -  
-Jesus - 
-Letícia Jönck - 
-Pietra Gullo Salgado Chaves - 14603822 
-José Carlos - 
+Shogo Shima -  <br>
+Jesus - <br>
+Letícia Jönck - <br>  
+Pietra Gullo Salgado Chaves - 14603822 <br>
+José Carlos - <br>
