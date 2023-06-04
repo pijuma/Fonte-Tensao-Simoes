@@ -29,8 +29,14 @@ Portanto, para transformar a voltagem de entrada (Ve) na voltagem de saída (Vs)
   A ponte retificadora é composta por quatro diodos colocados em pares alternados que transformam tanto a seção positiva quanto negativa da corrente AC em uma tensão polarizada DC. 
   
   ![ponte_de_iodo](pontedeiodo.png)    ![pontes_gif](pontes.gif) <br> 
-  3. No processo que sucede é feita a filtragem por um capacitor que carrega rapidamente e descarrega lentamente, fazendo com que o sinal pulsante fique o mais próximo possível de um sinal linear de corrente contínua.  
-  ![Filtragem]()
+  
+  3. No processo que sucede é feita a filtragem por um capacitor que carrega rapidamente e descarrega lentamente, de forma que o ruído residual, também conhecido como RIPPLE, seja o menor possível, fazendo com que o sinal pulsante fique o mais próximo possível de um sinal linear de corrente contínua. <br><br>
+  ![Filtragem](filtragem.png) <br> 
+  
+  4. Por último teremos a regulação. Nessa etapa, iremos utilizar um regulador, dispositivo que funciona de forma a linearizar o máximo possível a saída da fonte na tensão desejada. Dessa forma, por mais que entre uma tensão pulsante ou com o valor superior ao desejado, na entrada do regulador, esse irá apresentar em sua saída uma tensão de valor constante e fixo.<br>
+  Para o projeto, o regulador será composto por um resistor e um diodo zener, conectado ao contrário, em que o resistor irá reduzir a corrente que chega no diodo que, após uma tensão zener aplicada, irá permitir apenas este valor de tensão passar, barrando o excedente e oferecendo uma corrente contníua.<br>
+  Para o projeto os valores escolhidos para o diodo Zener, classificado por sua tensão de ruptura e potência máxima, foram de 13V e 1W, de acordo com a especificação do trabalho. <br> 
+  
 # Cálculos 
 
 # Valores 
