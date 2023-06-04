@@ -1,6 +1,6 @@
 # Objetivo
 
-O projeto tem por objetivo projetar uma **Fonte de Tensão ajustável** entre 3V e 12V com capacidade de 100mA <br> 
+Nesse projeto, realizado para a disciplina de Eletrônica para Computação do curso da USP - São Carlos, tem-se como objetivo projetar uma **Fonte de Tensão ajustável** entre 3V e 12V com capacidade de 100mA <br> 
 
 # Funcionamento 
 
