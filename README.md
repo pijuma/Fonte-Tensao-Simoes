@@ -29,7 +29,8 @@ Portanto, para transformar a voltagem de entrada (Ve) na voltagem de saída (Vs)
   A ponte retificadora é composta por quatro diodos colocados em pares alternados que transformam tanto a seção positiva quanto negativa da corrente AC em uma tensão polarizada DC. 
   
   ![ponte_de_iodo](pontedeiodo.png)    ![pontes_gif](pontes.gif) <br> 
-  
+  3. No processo que sucede é feita a filtragem por um capacitor que carrega rapidamente e descarrega lentamente, fazendo com que o sinal pulsante fique o mais próximo possível de um sinal linear de corrente contínua.  
+  ![Filtragem]()
 # Cálculos 
 
 # Valores 
