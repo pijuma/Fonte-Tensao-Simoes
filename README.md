@@ -44,6 +44,21 @@ Portanto, para transformar a voltagem de entrada (Ve) na voltagem de saída (Vs)
 
 # Valores 
 
+| Quantidade | Componente | Valor uni. | Valor Tot|
+|--------------|------------|-------|--------|
+|  | | []()| |
+|  | | []() | |
+|  | | []() | |
+|  | | []() | |
+|  |  | []()| |  
+|  | | []()| |
+|  | | []()| |    
+|  | | []()| |
+|  | | []()| |
+|  | | []()| |
+|**Total:** | | | ****|
+
+  
 # Circuito no Falstad 
 
 Link do circuito: https://tinyurl.com/2eja2aah <br> 
