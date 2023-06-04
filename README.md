@@ -56,8 +56,8 @@ Aulas do Professor Simões: https://gitlab.com/simoesusp/disciplinas/-/tree/mast
 
 # Responsáveis 
 
-Shogo Shima -  <br>
-Jesus - <br>
-Letícia Jönck - <br>  
+Shogo Shima - 12675145 <br>
+Jesus Sena Fernandes - <br>
+Letícia Raddatz Jönck - 14589066 <br>  
 Pietra Gullo Salgado Chaves - 14603822 <br>
 José Carlos - <br>
