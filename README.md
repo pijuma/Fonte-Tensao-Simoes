@@ -4,7 +4,7 @@ Nesse projeto, realizado para a disciplina de Eletrônica para Computação do c
 
 # Funcionamento 
 
-![Diagrama] 
+![Diagrama] (diagrama.jpeg) 
 # Etapas 
 
 # Cálculos 
