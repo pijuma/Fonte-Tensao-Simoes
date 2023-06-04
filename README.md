@@ -24,7 +24,7 @@ A fonte transforma a tensão do fornecedor (127V - 220V) em corrente alternada (
 
 # Circuito no Falstad 
 
-Link do circuito: https://tinyurl.com/2egmtj59 <br> 
+Link do circuito: https://tinyurl.com/2eja2aah <br> 
 
 # PCB no EAGLE
 
