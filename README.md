@@ -74,6 +74,6 @@ https://electronicsclub.info/powersupplies.htm
 
 Shogo Shima - 12675145 <br>
 Jesus Sena Fernandes - <br>
-Letícia Raddatz Jönck - 14589066 <br>  
-Pietra Gullo Salgado Chaves - 14603822 <br>
+Letícia Raddatz Jönck - 14589066<br>  
+Pietra Gullo Salgado Chaves - 14603822<br>
 José Carlos - <br>
