@@ -60,7 +60,7 @@ Portanto, para transformar a voltagem de entrada (Ve) na voltagem de saída (Vs)
   
 # Circuito no Falstad 
 
-[!circuito](https://github.com/pijuma/Fonte-Tensao-Simoes/blob/main/circuito.jpg) <br> 
+![circuito](https://github.com/pijuma/Fonte-Tensao-Simoes/blob/main/circuito.jpg) <br> 
 
 Link do circuito: https://tinyurl.com/2eja2aah <br> 
 
