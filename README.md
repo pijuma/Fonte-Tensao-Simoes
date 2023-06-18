@@ -46,17 +46,16 @@ Portanto, para transformar a voltagem de entrada (Ve) na voltagem de saída (Vs)
 
 | Quantidade | Componente | Valor uni. | Valor Tot|
 |--------------|------------|-------|--------|
-|  | | []()| |
-|  | | []() | |
-|  | | []() | |
-|  | | []() | |
-|  |  | []()| |  
-|  | | []()| |
-|  | | []()| |    
-|  | | []()| |
-|  | | []()| |
-|  | | []()| |
-|**Total:** | | | ****|
+| 06 | Diodo Retificador 10A10 | 0,99 | 5,94 |
+| 02 | Capacitor 560μF25V | 0,95 | 1,90 |
+| 04 | Diodo Zener 13V 1W 1N4743 | 0,23 | 0,92 |
+| 10 | Resistor 1K 5% 14W | 0,04 | 0,4 |
+| 10 | Resistor 1K8 5% 2W | 0,04 | 0,4 |  
+| 04 | Resistor 2K 5% 14W | 0, 05 | 0,2 |
+| 04 | Transistor npn 2N2222 | 0,5 | 2,00 |    
+| 01 | Potenciômetro linear 5K | 1,99 | 1,99 |
+| 03 | Led 5mm vermelho | 0,15 | 0,45 |
+|**Total:** | | | **38,20** |
 
   
 # Circuito no Falstad 
