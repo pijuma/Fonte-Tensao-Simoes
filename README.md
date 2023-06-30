@@ -64,7 +64,13 @@ Portanto, para transformar a voltagem de entrada (Ve) na voltagem de saída (Vs)
 
 Link do circuito: https://tinyurl.com/28emweqm <br> 
 
+# Esquemático no EAGLE
+
+![Esquemático](esquemático.png) <br>
+
 # PCB no EAGLE
+
+![PCB](pcb.png) <br>
 
 # Fontes de pesquisa 
 
