@@ -42,44 +42,53 @@ Portanto, para transformar a voltagem de entrada (Ve) na voltagem de saída (Vs)
   
 # Cálculos 
 
-Tensão de pico da fonte:
-$$V_{fonte-pico} = \sqrt2 * 127 = 180 V$$
+**Tensão de pico da fonte:** <br>
 
-Tensão rms medido:
-$$V_{rms} = 16,6 V (medido)$$
+$$V_{fonte-pico} = \sqrt2 * 127 = 180 V$$ <br> 
 
-Tensão de pico:
-$$V_{pico} = \sqrt2 * V_{rms} = 23.47 V$$
+**Tensão rms medido:** <br>
 
-Cálculo da razão:
-$$razão = \frac{V_{pico}}{V_{fonte-pico}} = 7.65 $$
+$$V_{rms} = 16,6 V (medido)$$ <br> 
 
-Após ponte de diodos (subtraindo 0.7 * 2 V):
-$$V_{s-ponte} = V_{pico} - 2 * 0.7 = 22.07 V$$
+**Tensão de pico:** <br>
 
-Valor do ripple (10% da voltagem que chega ao capacitor):
-$$V_{ripple} = 0.1 * V_{s-ponte} =  2.20 V$$
-$$V_{s} = V_{s-ponte} - \frac{v_{ripple}}{2} = 20.97 V$$
+$$V_{pico} = \sqrt2 * V_{rms} = 23.47 V$$ <br>
 
-Dos dados do Falstad, na configuração de 3V, utilizando um resistor de $2k\Omega$ :
-$$i_{transistor-base} = 0.23mA$$
-$$V_{r-baixo} = 3.4 V$$
-$$i_{r-baixo} = \frac{V_{r-baixo}}{2000} = 1.7 mA$$
-$$R_{pot} = \frac{13 - 3.4}{i_{r-baixo} + i_{transistor-base}} = 4,97 k\Omega$$
-Valor comercial escolhido: $R_{pot} = 5 k\Omega$
+**Cálculo da razão:** <br>
 
-Na configuração de 3V e utilizando um resistor de $1k\Omega$ antes do zener, a corrente que passa por ela é máxima. Como o zener utilizado possui especificações de 1W e 13V:
-$$i_{zmax} = \frac{P_z}{V_z} = 76.92mA$$
-Pelos dados do Falstad, a corrente máxima é igual a $7.4mA$, o que é bem abaixo do máximo permitido.
+$$razão = \frac{V_{pico}}{V_{fonte-pico}} = 7.65 $$ <br>
 
-Para a resistência do LED, foi escolhido o valor de $2k\Omega$, pois assim passa uma quantidade de corrente abaixo do limite.
+**Após ponte de diodos (subtraindo 0.7 * 2 V):** <br>
 
-O $I_0$ (para o calculo do valor do capacitor), pelo Falstad, é igual a:
-$$I_0 = 120.96 mA$$
+$$V_{s-ponte} = V_{pico} - 2 * 0.7 = 22.07 V$$ <br>
 
-Cálculo da capacitância, onde $f = 2* 60 = 120 Hz$ (já que a frequência de saída é o dobro da entrada para uma retificação de onda completa em ponte):
-$$C = \frac{I_0}{V_{ripple} * f} = 480\micro F$$
-Valor comercial escolhido: $C = 560\micro F$
+**Valor do ripple (10% da voltagem que chega ao capacitor):** <br>
+
+$$V_{ripple} = 0.1 * V_{s-ponte} =  2.20 V$$ <br>
+$$V_{s} = V_{s-ponte} - \frac{v_{ripple}}{2} = 20.97 V$$ <br>
+
+**Dos dados do Falstad, na configuração de 3V, utilizando um resistor de $2k\Omega$ :** <br>
+
+$$i_{transistor-base} = 0.23mA$$ <br>
+$$V_{r-baixo} = 3.4 V$$ <br>
+$$i_{r-baixo} = \frac{V_{r-baixo}}{2000} = 1.7 mA$$ <br>
+$$R_{pot} = \frac{13 - 3.4}{i_{r-baixo} + i_{transistor-base}} = 4,97 k\Omega$$ <br>
+Valor comercial escolhido: $R_{pot} = 5 k\Omega$ <br>
+
+**Na configuração de 3V e utilizando um resistor de $1k\Omega$ antes do zener, a corrente que passa por ela é máxima. Como o zener utilizado possui especificações de 1W e 13V:** <br>
+
+$$i_{zmax} = \frac{P_z}{V_z} = 76.92mA$$ <br>
+Pelos dados do Falstad, a corrente máxima é igual a $7.4mA$, o que é bem abaixo do máximo permitido. <br>
+
+**Para a resistência do LED, foi escolhido o valor de $2k\Omega$, pois assim passa uma quantidade de corrente abaixo do limite.** <br>
+
+**O $I_0$ (para o calculo do valor do capacitor), pelo Falstad, é igual a:** <br>
+$$I_0 = 120.96 mA$$ <br>
+
+**Cálculo da capacitância, onde $f = 2*60 = 120 Hz$ (já que a frequência de saída é o dobro da entrada para uma retificação de onda completa em ponte):** <br>
+
+$$C = \frac{I_0}{V_{ripple} * f} = 480\micro F$$ <br>
+Valor comercial escolhido: $C = 560\micro F$ <br>
 
 # Valores 
 
@@ -111,15 +120,17 @@ Link do circuito: https://tinyurl.com/28emweqm <br>
 
 ![PCB](pcb.png) <br>
 
-# Fontes de pesquisa 
+# Fontes de Pesquisa 
 
 Aulas do Professor Simões: https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao
 https://electronicsclub.info/powersupplies.htm 
 <br>
+
 # Responsáveis 
 
 Shogo Shima - 12675145 <br>
-Jesus Sena Fernandes - <br>
+Jesus Sena Fernandes - 12697470 <br>
 Letícia Raddatz Jönck - 14589066<br>  
 Pietra Gullo Salgado Chaves - 14603822<br>
-José Carlos - <br>
+José Carlos - 12549450 <br>
+
