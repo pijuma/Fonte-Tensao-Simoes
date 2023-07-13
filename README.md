@@ -68,11 +68,12 @@ $$V_{ripple} = 0.1 * V_{s-ponte} =  2.20 V$$ <br>
 $$V_{s} = V_{s-ponte} - \frac{v_{ripple}}{2} = 20.97 V$$ <br>
 
 **Dos dados do Falstad, na configuração de 3V, utilizando um resistor de $1k680\Omega$ (1k e 680 em série) :** <br>
+**(Apesar do valor ideal desse resistor ser de 2k, observamos que na protoboard que utilizamos, e considerando as colas presentes nas resistências, que aumentam consideravelmente a resistência, foi melhor utilizar 1k680 para compensar esse aumento, e permitir uma tensão de 3.1V medido)**
 
-$$i_{transistor-base} = 0.23mA$$ <br>
-$$V_{r-baixo} = 3.4 V$$ <br>
-$$i_{r-baixo} = \frac{V_{r-baixo}}{2000} = 1.7 mA$$ <br>
-$$R_{pot} = \frac{13 - 3.4}{i_{r-baixo} + i_{transistor-base}} = 4,97 k\Omega$$ <br>
+$$i_{transistor-base} = 0.2mA$$ <br>
+$$V_{r-baixo} = 3.024 V$$ <br>
+$$i_{r-baixo} = \frac{V_{r-baixo}}{1k680} = 1.8 mA$$ <br>
+$$R_{pot} = \frac{13 - 3.4}{i_{r-baixo} + i_{transistor-base}} = 4,8 k\Omega$$ <br>
 Valor comercial escolhido: $R_{pot} = 5 k\Omega$ <br>
 
 **Na configuração de 3V e utilizando um resistor de $1k\Omega$ antes do zener, a corrente que passa por ela é máxima. Como o zener utilizado possui especificações de 1W e 13V:** <br>
