@@ -67,7 +67,7 @@ $$V_{s-ponte} = V_{pico} - 2 * 0.7 = 22.07 V$$ <br>
 $$V_{ripple} = 0.1 * V_{s-ponte} =  2.20 V$$ <br>
 $$V_{s} = V_{s-ponte} - \frac{v_{ripple}}{2} = 20.97 V$$ <br>
 
-**Dos dados do Falstad, na configuração de 3V, utilizando um resistor de $2k\Omega$ :** <br>
+**Dos dados do Falstad, na configuração de 3V, utilizando um resistor de $1k680\Omega$ (1k e 680 em série) :** <br>
 
 $$i_{transistor-base} = 0.23mA$$ <br>
 $$V_{r-baixo} = 3.4 V$$ <br>
@@ -97,9 +97,10 @@ Valor comercial escolhido: $C = 560\micro F$ <br>
 | 06 | Diodo Retificador 10A10 | 0,99 | 5,94 |
 | 02 | Capacitor 560μF25V | 0,95 | 1,90 |
 | 04 | Diodo Zener 13V 1W 1N4743 | 0,23 | 0,92 |
-| 10 | Resistor 1K 5% 14W | 0,04 | 0,4 |
+| 10 | Resistor 1K 5% 1/4W | 0,04 | 0,4 |
 | 10 | Resistor 1K8 5% 2W | 0,04 | 0,4 |  
-| 04 | Resistor 2K 5% 14W | 0, 05 | 0,2 |
+| 04 | Resistor 2K 5% 1/4W | 0, 05 | 0,2 |
+| 04 | Resistor 680 5% 1/4W | 0, 03 | 0,15 |
 | 04 | Transistor npn 2N2222 | 0,5 | 2,00 |    
 | 01 | Potenciômetro linear 5K | 1,99 | 1,99 |
 | 03 | Led 5mm vermelho | 0,15 | 0,45 |
@@ -110,7 +111,7 @@ Valor comercial escolhido: $C = 560\micro F$ <br>
 
 ![circuito](https://github.com/pijuma/Fonte-Tensao-Simoes/blob/main/circuit.png) <br> 
 
-Link do circuito: https://tinyurl.com/28emweqm <br> 
+Link do circuito: https://tinyurl.com/2gdrsmq6 <br> 
 
 # Esquemático no EAGLE
 
